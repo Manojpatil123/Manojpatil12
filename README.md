@@ -1,2 +1,2 @@
 # Manojpatil12
-sql practice
+sql assignments and practice
